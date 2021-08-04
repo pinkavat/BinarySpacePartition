@@ -6,7 +6,7 @@
  *
  * A test of Binary Space Partitioning
  * 
- * Written 7 May 2020
+ * Written 7 May 2020 by Thomas Pinkava
 */
 
 #define REGION_MINIMUM_SIZE 2   // The minimal edge length generated
